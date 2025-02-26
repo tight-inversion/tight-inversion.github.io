@@ -1,0 +1,5 @@
+<script>start("/Users/nirg/dev/tight-inversion-project-page/static/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("css","css",1,256,"256 B",1740476494,"2/25/25, 11:41:34 AM");</script>
+<script>addRow("images","images",1,384,"384 B",1740487871,"2/25/25, 2:51:11 PM");</script>
+<script>addRow("js","js",1,256,"256 B",1740476494,"2/25/25, 11:41:34 AM");</script>
